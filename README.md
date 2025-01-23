@@ -1,2 +1,2 @@
-# Image-Oject-Classification
-This project uses MobileNetV2, a pre-trained deep learning model, to classify objects in images with high accuracy. Users can upload images, and the model predicts the most likely object with its confidence score, enabling efficient object recognition
+# Image-Oject-Classification  
+This project utilizes MobileNetV2, a pre-trained deep learning model, to classify objects in images with exceptional efficiency. Trained on the ImageNet dataset, the model can recognize 1,000 object categories, including animals, vehicles, and everyday items. Users upload an image, which is preprocessed and analyzed by the model to provide the most likely object prediction along with a confidence score. Featuring robust error handling and intuitive visualization, this solution is ideal for applications in automation, content tagging, and smart systems development.
