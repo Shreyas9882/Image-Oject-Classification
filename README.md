@@ -1,4 +1,4 @@
-# Image-Oject-Classification  
+# Image-Object-Classification  
 
 
 ## Project Description
