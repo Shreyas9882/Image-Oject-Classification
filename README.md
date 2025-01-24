@@ -13,7 +13,10 @@ The goal of this project is to provide an accessible and easy-to-use image class
 - **Prediction with Confidence**: Displays the predicted label along with a confidence score.
 - **Image Visualization**: Displays the input image alongside the predicted label for better understanding.
 
-
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/b715bdab-b56a-47e3-b7a2-7dc3c2c5d233" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/1362dcb1-bbc1-4e0d-90f1-b28704ee770f" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/63b0bd2b-47c7-451b-b30e-e2f450508c51" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/ed74e65b-aa0f-46cf-b930-08c4d67ff04d" />
 
 ## Requirements
 
